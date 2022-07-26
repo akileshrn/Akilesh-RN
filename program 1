@@ -1,0 +1,5 @@
+#python 3 code to demonstrate
+#working of hash()
+
+#initializing objects
+int_val=4
